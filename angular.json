@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "scoringApp"
+    }
+  },
+  "defaultProject": "scoringApp",
+  "cli": {
+    "analytics": "60f3d397-1ff8-4431-9bd6-3b8cff454423"
+  }
 }
